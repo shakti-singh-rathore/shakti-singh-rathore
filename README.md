@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @shakti-singh-rathore
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning seo optimization
+- 💞️ I’m looking to collaborate with business
+
+<!---
+shakti-singh-rathore/shakti-singh-rathore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
